@@ -20,7 +20,7 @@ MySQL database hosted on AWS RDS for storing data.
 ## Setup and Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/caeliusProject.git
+`git clone https://github.com/your-username/caeliusProject.git`
 
 2. Import the project into your Java IDE (e.g., Eclipse, IntelliJ) 
 and set up the mysql connector dependency. Add the mysql-connector.jar file to the project.
@@ -37,10 +37,6 @@ and set up the mysql connector dependency. Add the mysql-connector.jar file to t
 - Launch the chatbot application.
 - Enter your queries or messages in the chat input field.
 - The chatbot will process the input and generate responses based on the predefined rules and database content.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or want to enhance the functionality of the chatbot, feel free to submit a pull request.
 
 ## License
 
