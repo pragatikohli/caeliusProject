@@ -2,7 +2,7 @@
 # Chatbot Project
 
 This is a chatbot project implemented using Java Swing for the user interface and 
-MySQL database hosted on AWS RDS for storing data.
+MySQL database hosted on AWS RDS for storing data. It is able to answer the queries that are already present in the database , can perform mathematical operations and can tell the current time, date as asked. For something that is not there in the database it makes use of external search engine services.
 
 ## Features
 
