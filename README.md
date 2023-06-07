@@ -38,6 +38,10 @@ and set up the mysql connector dependency. Add the mysql-connector.jar file to t
 - Enter your queries or messages in the chat input field.
 - The chatbot will process the input and generate responses based on the predefined rules and database content.
 
+## Upcoming Updates
+
+This is a desktop application created using Java Swing and with the use of AWS RDS MySQL database. This project will be converted to java web application using springboot and then will be deployed on AWS EC2. 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
