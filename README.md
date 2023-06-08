@@ -40,7 +40,7 @@ and set up the mysql connector dependency. Add the mysql-connector.jar file to t
 
 ## Upcoming Updates
 
-This is a desktop application created using Java Swing and with the use of AWS RDS MySQL database. This project will be converted to java web application using springboot and then will be deployed on AWS EC2. 
+This is a desktop application created using Java Swing and with the use of AWS RDS MySQL database. This project will be converted to java web application using springboot and then will be deployed. 
 
 ## License
 
