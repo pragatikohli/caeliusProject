@@ -72,7 +72,7 @@ public class chatbot extends JFrame implements ActionListener {
     
   //retrieves data from database 
     public void fetchFromDatabase() {
-        String url = "jdbc:mysql://database-demo.calujoxzswbu.ap-northeast-1.rds.amazonaws.com:3306/chatbot_info";
+        String url = "";
         String username = "";
         String password = "";
 
