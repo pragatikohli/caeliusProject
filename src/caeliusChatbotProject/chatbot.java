@@ -143,9 +143,9 @@ public class chatbot extends JFrame implements ActionListener {
     }
 // retrieves answer from database 
     public String getFromDatabase(String message){
-        String url = "jdbc:mysql://database-demo.calujoxzswbu.ap-northeast-1.rds.amazonaws.com:3306/chatbot_info";
-        String username = "pragati";
-        String password = "hellopragati";
+        String url = "";
+        String username = "";
+        String password = "";
 
         try (Connection connection = DriverManager.getConnection(url, username, password);
              Statement statement = connection.createStatement();
