@@ -25,7 +25,7 @@ MySQL database on AWS RDS for storing data. It is able to answer the queries tha
 2. Import the project into your Java IDE (e.g., Eclipse, IntelliJ) 
 and set up the mysql connector dependency. Add the mysql-connector.jar file to the project.
 
-3. Configure the MySQL database connection settings in the project (if you want to add your own database connection):
+3. Configure the MySQL database connection settings in the project to add your own database connection:
 
 - Open the `chatbot.java` file.
 - Update the `url`, `username`, and `password` properties with your AWS RDS MySQL database connection details.
